@@ -69,7 +69,7 @@ Graph: {'A': ['B', 'C'], 'B': ['A', 'D', 'E'], 'C': ['A', 'E'], 'D': ['B', 'E'],
 DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 
 ### Input:
-<img width="455" height="157" alt="image" src="https://github.com/user-attachments/assets/b568a3d3-92f2-453c-9b28-6a1b67017daf" />
+<img width="435" height="150" alt="image" src="https://github.com/user-attachments/assets/64155d2a-9e98-478d-9c4b-a9f55632151d" />
 
 ### output:
 <img width="962" height="47" alt="image" src="https://github.com/user-attachments/assets/4552d56b-5609-4510-8180-b63213ae6f8b" />
