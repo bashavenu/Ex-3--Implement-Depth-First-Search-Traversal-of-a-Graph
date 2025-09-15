@@ -75,5 +75,6 @@ DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 <img width="962" height="47" alt="image" src="https://github.com/user-attachments/assets/4552d56b-5609-4510-8180-b63213ae6f8b" />
 
 **Result:**
+
 Thus, the Depth-First Search (DFS) Traversal of a Graph has been successfully implemented and executed.
 
